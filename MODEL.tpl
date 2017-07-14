@@ -1,3 +1,6 @@
+//Written by: Andre E. Punt
+//Modified by: C. Allen Akselrud
+//
 // Updates of note:
 // 2015-05-30:
 // Added a fifth column to the tagging data (AIGKC)
